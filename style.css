@@ -1,0 +1,16 @@
+body {
+background-color: blue;
+}
+header{
+    width: 1440px;
+    height: 134px;
+    background: #EDF2EC;
+  }
+  *{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
